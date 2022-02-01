@@ -15,3 +15,7 @@
 ## Profile
 
 ![Rose Profile](https://scontent.fpnq6-1.fna.fbcdn.net/v/t1.6435-9/66150659_446287126215203_3809625108104871936_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Syz70lfgCckAX9pFLpR&_nc_ht=scontent.fpnq6-1.fna&oh=230dad269f29af84a5edc3b9367cc3ac&oe=618D3FD1)
+## ✨ Heroku Deploy ✨
+The easiest way to deploy this Bot is via Heroku.
+
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/FriDayXD/RoseBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
