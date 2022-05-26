@@ -18,62 +18,77 @@
     },
     "TOKEN": {
       "description": "Your bot token, as a string.",
+      "required": true,
       "value": ""
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
+      "required": true,
       "value": ""
     },
     "OWNER_USERNAME": {
       "description": "Your username",
+      "required": true,
       "value": ""
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
+      "required": false,
       "value": "ANYTHING"
     },
     "URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
+      "required": false,
       "value": ""
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
+      "required": false,
       "value": "-1007777777777"
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
+      "required": false,
       "value": ""
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
+      "required": false,
       "value": ""
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
+      "required": false,
       "value": ""
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
+      "required": false,
       "value": ""
     },
     "PORT": {
       "description": "Port to use for your webhooks",
+      "required": false,
       "value": "8443"
     },
     "DEL_CMDS": {
       "description": "Whether to delete commands from users which don't have rights to use that command",
+      "required": false,
       "value": "True"
     },
     "STRICT_GBAN": {
       "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
+      "required": false,
       "value": "True"
     },
     "ALLOW_EXCL": {
       "description": "Whether to allow using exclamation marks ! for commands as well as /.",
+      "required": false,
       "value": "True"
     },
     "BAN_STICKER": {
       "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
+      "required": false,
       "value": "CAACAgQAAxkBAAEHAedfwdK1GHtSZe1Q0F0q6vWRsxL91gAC-QgAAoThEVJCGmPkkeA1_R4E"
     }
   },
