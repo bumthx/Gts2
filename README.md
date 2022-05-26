@@ -2,7 +2,7 @@
 
 ### Deploy
 
-[![Deploy](https://camo.githubusercontent.com/6979881d5a96b7b18a057083bb8aeb87ba35fc279452e29034c1e1c49ade0636/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FFayasKKD%2FMiss-Rose-Bot)
+[![Deploy](https://camo.githubusercontent.com/6979881d5a96b7b18a057083bb8aeb87ba35fc279452e29034c1e1c49ade0636/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667)](https://dashboard.heroku.com/new?template=https://github.com/Soumyabrata-eng/Rosebot)
 
 ### Credits
 
@@ -14,8 +14,8 @@
 
 ## Profile
 
-![Rose Profile](https://scontent.fpnq6-1.fna.fbcdn.net/v/t1.6435-9/66150659_446287126215203_3809625108104871936_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Syz70lfgCckAX9pFLpR&_nc_ht=scontent.fpnq6-1.fna&oh=230dad269f29af84a5edc3b9367cc3ac&oe=618D3FD1)
+![Rose Profile](https://missrose.org/img/logo/rose_logo.png)
 ## ✨ Heroku Deploy ✨
 The easiest way to deploy this Bot is via Heroku.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/FriDayXD/RoseBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Soumyabrata-eng/Rosebot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
