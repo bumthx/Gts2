@@ -1,3 +1,4 @@
+pip install --upgrade setuptools
 future
 emoji
 requests
