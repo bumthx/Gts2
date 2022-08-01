@@ -1,6 +1,6 @@
 
 {
-  "name": "Miss Rose",
+  "name": "GTS",
   "logo": "https://missrose.org/img/logo/rose_logo.png",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
   "keywords": [
@@ -10,7 +10,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/Soumyabrata-eng/Rosebot",
+  "repository": "https://github.com/bumthx/Gts2",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
